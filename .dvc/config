@@ -1,4 +1,6 @@
 [core]
-    remote = dvcstore
+    remote = dvcstore1
 ['remote "dvcstore"']
     url = s3://skyxdvcbucket
+['remote "dvcstore1"']
+    url = s3://skydvcbucket
